@@ -1,0 +1,62 @@
+[
+  {
+    "id": "rs_001",
+    "category": "summarization",
+    "prompt": "Summarize the water cycle in 2-3 sentences.",
+    "reference": "Water evaporates from surfaces, rises into the atmosphere, condenses into clouds, and falls back as precipitation. This cycle continuously moves water between the earth's surface and atmosphere."
+  },
+  {
+    "id": "rs_002",
+    "category": "summarization",
+    "prompt": "Summarize how photosynthesis works in 2-3 sentences.",
+    "reference": "Photosynthesis is the process by which plants convert sunlight, water, and carbon dioxide into glucose and oxygen. This occurs in the chloroplasts using chlorophyll to absorb light energy."
+  },
+  {
+    "id": "rs_003",
+    "category": "explanation",
+    "prompt": "Explain what machine learning is in simple terms.",
+    "reference": "Machine learning is a type of artificial intelligence where computers learn from data to make predictions or decisions without being explicitly programmed for each task. It improves automatically through experience."
+  },
+  {
+    "id": "rs_004",
+    "category": "explanation",
+    "prompt": "Explain what an API is in simple terms.",
+    "reference": "An API is a set of rules that allows different software applications to communicate with each other. It acts as an intermediary that lets one application request data or services from another."
+  },
+  {
+    "id": "rs_005",
+    "category": "summarization",
+    "prompt": "Summarize the causes of World War I in 2-3 sentences.",
+    "reference": "World War I was triggered by the assassination of Archduke Franz Ferdinand in 1914, but underlying causes included militarism, alliances, imperialism, and nationalism across Europe. These tensions caused a regional conflict to escalate into a global war."
+  },
+  {
+    "id": "rs_006",
+    "category": "explanation",
+    "prompt": "Explain the difference between RAM and storage in simple terms.",
+    "reference": "RAM is temporary memory your computer uses to run active programs, while storage is permanent space where files and applications are saved long-term. RAM is faster but loses data when powered off, storage is slower but retains data."
+  },
+  {
+    "id": "rs_007",
+    "category": "summarization",
+    "prompt": "Summarize how the internet works in 2-3 sentences.",
+    "reference": "The internet is a global network of computers that communicate using standardized protocols. Data is broken into packets, routed through servers and cables across the world, and reassembled at the destination."
+  },
+  {
+    "id": "rs_008",
+    "category": "explanation",
+    "prompt": "Explain what a neural network is in simple terms.",
+    "reference": "A neural network is a computing system loosely modeled on the human brain, consisting of layers of interconnected nodes. It learns by adjusting the strength of connections between nodes based on training data."
+  },
+  {
+    "id": "rs_009",
+    "category": "explanation",
+    "prompt": "Explain what version control is and why it matters.",
+    "reference": "Version control is a system that tracks changes to files over time, allowing developers to revert to previous versions and collaborate without overwriting each other's work. Git is the most widely used version control system."
+  },
+  {
+    "id": "rs_010",
+    "category": "summarization",
+    "prompt": "Summarize the theory of evolution in 2-3 sentences.",
+    "reference": "Evolution is the process by which species change over generations through natural selection, where individuals with advantageous traits are more likely to survive and reproduce. Over long periods this leads to new species emerging from common ancestors."
+  }
+]
