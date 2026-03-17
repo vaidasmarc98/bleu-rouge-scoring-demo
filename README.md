@@ -105,15 +105,12 @@ Categories currently supported: `summarization`, `explanation`. Add any category
 ---
 
 ## Dashboard Screenshots
-
-| View | Description |
-|---|---|
-| Summary metrics | Pass rate, avg BLEU, avg ROUGE scores at a glance |
-(screenshots/Capture1.png)
-| Score distributions & Category breakdown  | Histogram of BLEU scores, box plots of ROUGE scores | | Grouped bar chart + radar chart by prompt category
-(screenshots/Capture2.png)
-| Response inspector | Side-by-side prompt / reference / model output with per-metric pass/fail |
-(screenshots/Capture3.png)
+**Summary Metrics & Score Distributions**
+![Summary](screenshots/Capture1.PNG)
+**Category Breakdown**
+![Categories](screenshots/Capture2.PNG)
+**Response Inspector**
+![Inspector](screenshots/Capture3.PNG)
 ---
 
 ## Author
